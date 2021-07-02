@@ -1,2 +1,4 @@
 let nome = "Kaio Max"
 console.log(nome);
+var  car ="fiat"
+console.log(car),
