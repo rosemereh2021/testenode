@@ -1,0 +1,2 @@
+let nome = "Kaio Max"
+console.log(nome);
