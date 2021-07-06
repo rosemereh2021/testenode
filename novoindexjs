@@ -1,0 +1,2 @@
+var nome = "PATRICIA BARCH"
+console.log(nome);
